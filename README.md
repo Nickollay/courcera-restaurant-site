@@ -7,5 +7,5 @@ It's a study project for coursera course:
 https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
 #### For now it needs to be finished.
-For now it has only HTML, CSS and BOOTSTRAP code. 
+It has only HTML, CSS and BOOTSTRAP code. 
 So, I'm planing to finish it with some JS code.
