@@ -4,5 +4,5 @@
 Study project for coursera course
 https://www.coursera.org/learn/html-css-javascript-for-web-developers
 
-**It deployed here on github** 
+**Deployed it here on github** 
 https://nickollay.github.io/courcera-restaurant-site/site/index.html
